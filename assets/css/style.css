@@ -1,0 +1,70 @@
+body{
+  background: url("../images/background.jpg");
+}
+h1{
+	color:white;
+	background: orange;
+	width:25%;
+	text-align: center;
+	}
+#Instructions{
+	color:green;
+	background:tan;
+	width:40%;
+	height:400px;
+}
+#points{
+	background:green;
+	width:20%;
+	height:180px;
+	float:left;
+}
+#scoreboard{
+	float:right;
+	background: blue;
+	width:10%;
+	height:120px;
+	padding:30px;
+	margin-right:900px;
+}
+.crystalphoto{
+  width: 100px;
+  height: 80p3;
+  margin-top: 10px;
+}
+#crystals{
+	float:left;
+	background:white;
+	height:100px;
+	width: 250px;
+	margin-left:-10px;
+	margin-top: 30px;
+}
+#bignumber{
+	float:left;
+	background: black;
+	width:20%;
+	height:100px;
+	padding:30px;
+	margin-top: 330px;
+	margin-left:-10px;
+
+
+}
+#totalscore{
+	float:left;
+	background: blue;
+	width:20%;
+	height:100px;
+	padding:30px;
+	margin-top: 150px;
+	margin-left:-250px;
+}
+
+#maincontainer
+{
+width: 100%;
+ max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
