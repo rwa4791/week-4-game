@@ -1,1 +1,2 @@
 # week-4-game
+For this assignment, I created another fun and interactive game for web browsers. This time, the app dynamically update my HTML pages with the jQuery library. I also used CSS, HTML, and Boot Strap capabilities
